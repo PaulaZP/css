@@ -1,0 +1,58 @@
+/*Selector Universal
+*{
+    color: purple;
+}*/
+
+/*Selector de tipo de Etiquetas*/
+h1{
+    color: green;
+}
+h2{
+    color:blue;
+}
+p{
+    color: tomato;
+}
+
+/*Selector desendente
+p em{
+    color: yellowgreen;
+}
+p i{
+    color: cyan;
+}
+p b{
+    color: red;
+}*/
+
+/*Selector de clase
+.parrafo1{
+    color: red;
+}
+.parrafo2{
+    color:blue;
+}
+.resaltar{
+    color: hotpink;
+}*/
+
+/*Selector id
+#lista1{
+    color: coral;
+    font-size: 25px;
+}
+#lista2{
+    color: palevioletred;
+    font-size: 25px;
+}*/
+
+/*Selector multiple
+h1, h2{
+    color: crimson;
+}*/
+
+/*especifico desendiente
+a.resaltar{
+    color: teal;
+    font-size: 20px;
+}*/
